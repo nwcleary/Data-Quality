@@ -6,3 +6,7 @@
 - Penguins 
 - Python hissssssssssssssssssss
 
+## Section 2: some tests
+
+- rapidminer 
+- java
