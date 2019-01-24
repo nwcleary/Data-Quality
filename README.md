@@ -1,2 +1,8 @@
 # dq
-Data Quality first repo
+
+## Section 1 : First data repo
+- First bullet
+- I love spaghetti
+- Penguins 
+- Python hissssssssssssssssssss
+
