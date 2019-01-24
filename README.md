@@ -10,3 +10,8 @@
 
 - rapidminer 
 - java
+
+## Section 3: Use cases
+- Customer cases
+- Custoemr churn
+- Some other bs
